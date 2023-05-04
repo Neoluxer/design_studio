@@ -7,13 +7,13 @@
 
 1. Ведомость листов
 
-2. Обмерный план
+2. [Обмерный план](https://github.com/Neoluxer/design_studio/blob/main/checklist_measuring.md)
 
 3. План демонтажа и монтажа возводимых конструкций
 
 4. План новых перегородок
 
-5. План расстановки мебели и оборудования
+5. [План расстановки мебели и оборудования](https://github.com/Neoluxer/design_studio/blob/main/floorplan.md)
 
 6. 3D виды 
 
@@ -37,4 +37,4 @@
 
 16. Развертки стен
 
-17. Визаулизации 
+17. [Визаулизации](https://github.com/Neoluxer/design_studio/blob/main/visualization_checklist.md)
