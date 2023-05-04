@@ -31,7 +31,7 @@
 
 13. Схема привязки выключателей к светильникам
 
-14. [План электрооборудования](check_list_electric)
+14. [План электрооборудования](https://github.com/Neoluxer/design_studio/blob/main/check_list_electric.md)
 
 15. Схема видовых точек
 
