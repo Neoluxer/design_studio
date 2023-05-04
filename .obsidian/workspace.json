@@ -27,13 +27,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "check_list_plan_of_floor_coverings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "table_of_content.md",
+                "file": "check_list_plan_of_floor_coverings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "table_of_content.md",
+                "file": "check_list_plan_of_floor_coverings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "table_of_content.md"
+                "file": "check_list_plan_of_floor_coverings.md"
               }
             }
           }
@@ -160,8 +161,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "720631a5c512fb07",
+  "active": "8f50fb48420f8c0a",
   "lastOpenFiles": [
+    "Untitled3.png",
+    "Untitled2.png",
+    "Untitled.png",
+    "check_list_ceiling_plan.md",
+    "table_of_content.md",
     "check_list_3D_views.md",
     "README.md",
     "group_naming.md",
@@ -183,9 +189,7 @@
     "check_list_electric.md",
     "check_list_dismantling_plan.md",
     "check_list_conception.md",
-    "check_list_ceiling_plan.md",
     "breef_discussing.md",
-    "add_to_group.md",
-    "table_of_content.md"
+    "add_to_group.md"
   ]
 }

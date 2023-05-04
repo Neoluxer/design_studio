@@ -15,7 +15,7 @@
 
 5. [План расстановки мебели и оборудования](https://github.com/Neoluxer/design_studio/blob/main/floorplan.md)
 
-6. 3D виды 
+6. [3D виды ](https://github.com/Neoluxer/design_studio/blob/main/check_list_3D_views.md)
 
 7. [План привязки сантехнического оборудования](https://github.com/Neoluxer/design_studio/blob/main/check_list_plan%20for%20binding_plumbing_equipment.md)
 
