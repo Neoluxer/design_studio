@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "check_list_plan_of_floor_coverings.md",
+                "file": "table_of_content.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "check_list_plan_of_floor_coverings.md",
+                "file": "table_of_content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "check_list_plan_of_floor_coverings.md",
+                "file": "table_of_content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "check_list_plan_of_floor_coverings.md"
+                "file": "table_of_content.md"
               }
             }
           }
@@ -163,33 +163,34 @@
   },
   "active": "8f50fb48420f8c0a",
   "lastOpenFiles": [
-    "Untitled3.png",
-    "Untitled2.png",
-    "Untitled.png",
-    "check_list_ceiling_plan.md",
-    "table_of_content.md",
-    "check_list_3D_views.md",
-    "README.md",
-    "group_naming.md",
-    "floorplan.md",
-    "concept_description_example.md",
-    "checklist_plan_new_partitions.md",
+    "bridge.py",
+    "manifest_blueprints.md",
     "checklist_measuring.md",
+    "table_of_content.md",
+    "checklist_plan_new_partitions.md",
     "check_list_title_page.md",
     "check_list_sweep_walls.md",
     "check_list_scheme_view_points.md",
     "check_list_scheme_of_association_of_switches_to_lamps.md",
     "check_list_plan_with_indication_of_wall_finishing.md",
     "check_list_plan_of_floor_coverings.md",
+    "check_list_dismantling_plan.md",
+    "check_list_conception.md",
+    "check_list_ceiling_plan.md",
+    "check_list_electric.md",
+    "Untitled3.png",
+    "Untitled2.png",
+    "Untitled.png",
+    "check_list_3D_views.md",
+    "README.md",
+    "group_naming.md",
+    "floorplan.md",
+    "concept_description_example.md",
     "check_list_plan_lighting_equipment.md",
     "check_list_plan_for_linking_warm_floors.md",
     "check_list_plan for binding_plumbing_equipment.md",
     "check_list_list_of_sheets.md",
     "check_list_electric_description.md",
-    "check_list_electric.md",
-    "check_list_dismantling_plan.md",
-    "check_list_conception.md",
-    "breef_discussing.md",
-    "add_to_group.md"
+    "breef_discussing.md"
   ]
 }
